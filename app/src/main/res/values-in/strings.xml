@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Hanya Java</string>
+    <string name="chocolate">Coklat</string>
+    <string name="create_order_chocolate">Pakai coklat? <xliff:g id="chocolate" example="true">%b</xliff:g></string>
+    <string name="create_order_email">Email: <xliff:g id="email" example="rizal.gow@gmail.com">%s</xliff:g></string>
+    <string name="create_order_for">Order untuk: <xliff:g id="stringName" example="Arwego Gowandy">%s</xliff:g></string>
+    <string name="create_order_name">Nama: <xliff:g id="name" example="Arwego Gowandy">%s</xliff:g></string>
+    <string name="create_order_quantity">Jumlah: <xliff:g id="quantity" example="1">%d</xliff:g></string>
+    <string name="create_order_total_price">Total biaya <xliff:g id="totalPrice" example="1">%d</xliff:g></string>
+    <string name="create_order_whipped_cream">Pakai whipped cream? <xliff:g id="whipCream" example="true">%b</xliff:g></string>
+    <string name="email">Email</string>
+    <string name="error_order_one_hundred">Maximal pesanan 100 cangkir kopi</string>
+    <string name="error_order_zero">Minimum pesanan 1 cangkir kopi</string>
+    <string name="input_name">Nama</string>
+    <string name="invalid_email">Masukan alamat email yang benar</string>
+    <string name="mailto">mailto:</string>
+    <string name="minus">-</string>
+    <string name="order">Pesanan</string>
+    <string name="quantity">Jumlah</string>
+    <string name="plus">+</string>
+    <string name="starter_quantity">1</string>
+    <string name="thank_you">Terima Kasih!</string>
+    <string name="toppings">Atasan</string>
+    <string name="whipped_cream">Whipped Cream</string>
+</resources>
